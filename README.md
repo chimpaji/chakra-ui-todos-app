@@ -1,5 +1,6 @@
 # Todos App for Chakra-UI implement Testing
 
+![Chara UI Todo App](https://i.imgur.com/IQSA1eB.jpg "Todos App")
 Made by React + Chakra UI
 Use LocalStorage
 
